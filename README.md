@@ -1,2 +1,3 @@
 # venable-lab-summer-2018
-Research, documentation, and analysis for my summer project in Dr. Larry Venable's lab.
+Project Overview:
+Generate accurate 2D and 3D spatial renderings of ecological reserves in the Sonoran desert using photogrammetric processing of digital images (traditional, red-edge, white-balanced). Construct a GIS profile of different transects across multiple time points with ground control markers. Employ machine learning classification schemes to track the long-term growth and survival patterns of over forty winter annual plant species. Collected data is used to study the coexistence and competition mechanisms in arid biomes, especially those induced by ongoing global climate change.
