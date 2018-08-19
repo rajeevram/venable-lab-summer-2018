@@ -40,7 +40,7 @@ Both of these trials were rather successful as indicated by: a steady descrese i
 
 ### Python Prediction Script
 
-Check for the binaryPlantPredictor.py file within the prediction folder. A new Keras model is instantiated, compiled, and loaded with the previously determined weights.  The prediction method takes any number of images from a specified directory, compresses and stacks them into a tensor for processing, and outputs and array of 1s (plant) and 0s (ground) as its prediction.
+Check for the binaryPlantPredictor.py file within the prediction folder. A new Keras model is instantiated, compiled, and loaded with the previously determined weights. The prediction method takes any number of images from a specified directory, compresses and stacks them into a tensor for processing, and outputs and array of 1s and 0s as its prediction.
 
 ### Apply Result To The Mosaic
 
