@@ -16,15 +16,15 @@ Once the photos are uploaded, various settings must be tuned over many trials to
 
 ![Mesh View Three](https://imgur.com/zd0V1ks.png)
 
-Many times, the mesh generated contains holes, or is not flat enough to be an accurate representation of the actual transect. This is because the generator is not able to match content that overlaps between photos to a single location. 
+Many times, the mesh generated contains holes, or is not flat enough to be an accurate representation of the actual transect. This is because the generator is not able to match content that overlaps among photos to a single location. 
 
 ![Non-Flat Mesh](https://imgur.com/uhqzRTE.png)
 
-Sometimes, when photos cannot be placed properly into the mesh, they are just omitted from the model. Photos that are not included in the meshes generated are marked as NA.
+Sometimes, when photos cannot be placed properly into the mesh, they are just omitted from the model. Photos that are not included in the meshes generated are marked as NA in the workspace.
 
 ![Photo Not Added](https://imgur.com/9ARSLSN.png)
 
-When this happens, either ground control points or GPS coordinates must be input to match landmarks between photos. Manually entering in GCPs is time-consuming, so it is best to approach this in iterations. For example, first you input a few GCPs across many sets of non-overlapping photos.
+When this happens, either ground control points or GPS coordinates must be input to match landmarks among photos. Manually entering in GCPs is time-consuming, so it is best to approach this in iterations. For example, first input a few GCPs across many small sets of non-overlapping photos.
 
 ![GCP #1](https://imgur.com/813v5tH.png)
 
@@ -40,4 +40,4 @@ Once a mesh of satifactory quality is generated, then it can be exported as an o
 
 ![Orthomosaic](https://imgur.com/wI1kUDN.png)
 
-The above picture is just a miniatuarized version of actual file. The actual orthomosaic for this transect is a 500+ MB TIFF. Other transects produce orthomosaics of an even larger file size because of the sheer number of photos used in generation of the final image.
+The above picture is just a miniatuarized version of actual file. The actual orthomosaic for this transect is a 500+ MB TIFF. Other transects produce orthomosaics of an even larger file size simply because of the sheer number of photos used in the generation of the final image.
