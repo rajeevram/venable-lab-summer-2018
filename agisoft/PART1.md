@@ -1,5 +1,7 @@
 # Part I – Generating Mosaics
 
+Create accurate digital mosaics of the transects by digitally stitching the overlapping pictures together.
+
 ## Photographing Transects
 
 Each transect on Tumamoc hill varies considerably in size. Generally, a transect that is 20 x 20 meters squared is captured in a series of 100–150 overlapping photos. A sample of 15 consecutive photos for a particular transect on a particular date is given in the transect folder. Each photo is taken in series, and a single photos overlaps about half (or less) of its area with its predecessor and successor, respectively.

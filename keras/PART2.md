@@ -1,5 +1,7 @@
 # Part II – Machine Learning
 
+Create a binary convolutional neural network by training a model with tiles of plants versus non-plants. Employ the machine model on the moasics to count the number of plants in a particular transect.
+
 ## Part 2A: Training A Neural Network
 
 Because the number of plants that appear in a given area of the transect is quite small, we needed to be able to develop a construct a neural network with only a couple thousand instances of data. Thus, we decided to build a binary classification model with the [Keras Library](https://blog.keras.io/building-powerful-image-classification-models-using-very-little-data.html).
@@ -18,7 +20,7 @@ From these, plant and ground tiles, or varying quality (e.g., some are blurry, s
 
 Example Ground Tiles:
 
-![Ground](https://imgur.com/GERJljt.png) ![Ground](https://imgur.com/OiSVxZz.png) ![Ground](https://imgur.com/OiSVxZz.png) ![Ground](https://imgur.com/YCCrEbV.png) ![Ground](https://imgur.com/YCCrEbV.png)
+![Ground](https://imgur.com/GERJljt.png) ![Ground](https://imgur.com/6RvqwPv.png) ![Ground](https://imgur.com/OiSVxZz.png) ![Ground](https://imgur.com/TV0ClxH.png) ![Ground](https://imgur.com/YCCrEbV.png) ![Ground](https://imgur.com/teKZHGG.png) ![Ground](https://imgur.com/lQD9Ev8.png)
 
 Example Plant Tiles:
 
