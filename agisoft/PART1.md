@@ -8,7 +8,7 @@ Each transect on Tumamoc hill varies considerably in size. Generally, a transect
 
 ## Generating A Mesh
 
-These overlapping photos are used to generate a non-overlapping mosaic of a whole transect. We stitched the images together using a photgrammetring image processing software called [Agisoft Photscan](http://www.agisoft.com/).
+These overlapping photos are used to generate a non-overlapping mosaic of a whole transect. We stitched the images together using a photogrammetric image processing software called [Agisoft Photscan](http://www.agisoft.com/).
 
 Once the photos are uploaded, various settings must be tuned over many trials to produce a decent model, or mesh.
 

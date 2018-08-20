@@ -6,7 +6,7 @@ Create a binary convolutional neural network by training a model with tiles of p
 
 Because the number of plants that appear in a given area of the transect is quite small, we needed to be able to construct a neural network with only a couple thousand instances of data. Thus, we decided to build a [binary classification model with the Keras Library](https://blog.keras.io/building-powerful-image-classification-models-using-very-little-data.html).
 
-Furthermore, after research, we were not able to a find a pre-trained network that would appropritely adapt to classifying winter annual plants. Thus, our classification network is constructed from scratch. Moving forward, the goal is to fine-tune the decisions of our trained-from-scratch machine learning model.
+Furthermore, after research, we were not able to a find a pre-trained network that would appropriately adapt to classifying winter annual plants. Thus, our classification network is constructed from scratch. Moving forward, the goal is to fine-tune the decisions of our trained-from-scratch machine learning model.
 
 ### Creating Training Tiles
 
