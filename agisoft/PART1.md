@@ -34,12 +34,12 @@ When this happens, either ground control points or GPS coordinates must be input
 
 ![GCP #3](https://imgur.com/QVt8TtD.png)
 
-Then, you run the geneator once more, and see which images are now included. Then, you add some more GCPs and look for even more improvement, all the while fine-tuning various parameters.
+Then, you run the generator once more, and see which images are now included. Then, you add some more GCPs and look for even more improvement, all the while fine-tuning various parameters.
 
 ## Exporting The Mosaic
 
-Once a mesh of satifactory quality is generated, then it can be exported as an orthomosaic. An orthomosaic is just the stitched-together version that is projected onto a flat surface, to get rid of the remaining bumps.
+Once a mesh of satisfactory quality is generated, then it can be exported as an orthomosaic. An orthomosaic is just the stitched-together version that is projected onto a flat surface, to get rid of the remaining bumps.
 
 ![Orthomosaic](https://imgur.com/wI1kUDN.png)
 
-The above picture is just a miniatuarized version of actual file. The actual orthomosaic for this transect is a 500+ MB TIFF. Other transects produce orthomosaics of an even larger file size simply because of the sheer number of photos used in the generation of the final image.
+The above picture is just a miniaturized version of actual file. The actual orthomosaic for this transect is a 500+ MB TIFF. Other transects produce orthomosaics of an even larger file size simply because of the sheer number of photos used in the generation of the final image.

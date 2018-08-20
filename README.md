@@ -11,7 +11,7 @@ Generate accurate 2D spatial renderings of ecological reserves in the Sonoran De
 There are three main steps involved in this project:
 1. Create accurate digital mosaics of the transects by digitally stitching the overlapping pictures together.
 2. Create a binary convolutional neural network by training a model with tiles of plants versus non-plants.
-3. Employ the machine model on the moasics to count the number of plants in a particular transect.
+3. Employ the machine model on the mosaics to count the number of plants in a particular transect.
 
 Possible additional steps include:
 
