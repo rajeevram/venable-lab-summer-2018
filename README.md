@@ -13,7 +13,7 @@ There are three main steps involved in this project:
 2. Create a binary convolutional neural network by training a model with tiles of plants versus non-plants.
 3. Employ the machine model on the mosaics to count the number of plants in a particular transect.
 
-Possible additional steps include the following:
+Possible additional steps include:
 
 4. Expand and refine the machine model to categorize according to species or genus.
 5. Track the plant growths in a transect via their sizes over multiple dates.
