@@ -4,7 +4,7 @@ Create accurate digital mosaics of the transects by digitally stitching the over
 
 ## Photographing Transects
 
-Each transect for photographic capture on Tumamoc hill varies considerably in size. Generally, a transect that is 20 x 20 meters squared is captured in a series of 100–150 overlapping photos. A sample of 15 consecutive photos for a particular transect on a particular date is given in the transect folder. Each photo is taken in series, and a single photos overlaps about half (or less) of its area with its predecessor and successor, respectively. (note: add number of transects here)
+Each transect for photographic capture on Tumamoc hill varies considerably in size. Generally, a transect that is 20 x 20 meters squared is captured in a series of 100–150 overlapping photos. A sample of 15 consecutive photos for a particular transect on a particular date is given in the transect folder. Each photo is taken in series, and a single photos overlaps about half (or less) of its area with its predecessor and successor, respectively. Right now, three transects have been captures over four different dates.
 
 ## Generating A Mesh
 
@@ -44,6 +44,6 @@ Once a mesh of satisfactory quality is generated it can be exported as an orthom
 
 The above picture is a miniaturized version of actual file. The actual orthomosaic for this transect is a 500+ MB TIFF. Other transects produce orthomosaics of an even larger file size due to a greater number of photos used in the generation of the final image.
 
-## Notes on photography  
+## Notes On Photography  
 
-One reason that we had difficulty generating high-quality orthomosaic images was lack of overlap. This can be solved next season by taking photographs at angles. Photographs on each transect should be taken at xenith (as previously done), then repeated at 15 degree angles from xenith according technician's left and right and possible front and back as well. Photographs were taken with a standard camera on the Osmo in order to keep the angle steady and prevent blurring. Resolution would be improved by mounting a higher quality digital SLR camera to an Osmo system. 
+One reason that we had difficulty generating high-quality orthomosaic images was a lack of overlap. This can be solved next season by taking photographs at angles. Photographs on each transect should be taken at xenith (as previously done), then repeated at 15 degree angles from xenith according technician's left and right, and possibly front and back as well. Photographs were taken with a standard camera on the Osmo in order to keep the angle steady and prevent blurring. Resolution would be improved by mounting a higher quality digital SLR camera to an Osmo system.
